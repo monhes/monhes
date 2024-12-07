@@ -1,11 +1,4 @@
-### Hi there I'm Thud 👋
-
-Experience: Internship 4 months <br>
-Linked: https://www.linkedin.com/in/thud-anek-279895194/
-
-I started leaning C# when I was intern <br>
-I'm currently learning [ASP.NET Authentication, Benchmark, AngularTS]
-
+### Hi there
 <!--
 **monhes/monhes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
